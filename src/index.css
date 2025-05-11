@@ -1,0 +1,64 @@
+.custom-toggler {
+  border: 2px solid white;
+  
+  border-radius: 50%;
+  
+  padding: 5px;
+  
+}
+
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  width: 24px;
+
+  height: 24px;
+}
+
+.distanzaListItem {
+  line-height: 0.5;
+  border: none !important;
+  color: #333333 !important
+}
+
+.mappa:hover {
+  cursor: pointer
+}
+
+#search {
+  outline: none;
+}
+
+.city-container{
+  background-color: #1B1B1D !important;
+}
+
+.scrollable-container {
+  height: 280px;
+  overflow-y: auto;
+}
+
+
+.scrollable-container::-webkit-scrollbar {
+  width: 12px; 
+}
+
+.scrollable-container::-webkit-scrollbar-thumb {
+  background-color: rgba(136, 136, 136, 0.5);
+  border-radius: 10px; 
+}
+
+.scrollable-container::-webkit-scrollbar-track {
+  background-color:  rgba(255, 255, 255, 0); 
+  border-radius: 10px;
+}
+
+.scrollable-container {
+  scrollbar-width: thin; 
+  scrollbar-color: #888 #f1f1f1;
+}
+
+.citta:hover{
+  cursor: pointer;
+  transform: scale(1.1);
+  transition-duration: 0.3s;
+}

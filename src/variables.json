@@ -1,0 +1,79 @@
+{
+    "nubi-sparse": {
+        "clas": "bi-cloud-sun-fill",
+        "colors": [
+            "#D3D3D3",
+            "#FFFACD"
+        ]
+    },
+    "cielo-sereno": {
+        "clas": "bi-brightness-low-fill",
+        "colors": [
+            "#FFD700",
+            "#87CEEB"
+        ]
+    },
+    "cielo-coperto": {
+        "clas": "bi-clouds",
+        "colors": [
+            "#2F4F4F",
+            "#DCDCDC"
+        ]
+    },
+    "pioggia-leggera": {
+        "clas": "bi-umbrella-fill",
+        "colors": [
+            "#ADD8E6",
+            "#C0C0C0"
+        ]
+    },
+    "pioggia-moderata": {
+        "clas": "bi-cloud-drizzle-fill",
+        "colors": [
+            "#4682B4",
+            "#708090"
+        ]
+    },
+    "poche-nuvole": {
+        "clas": "bi-cloud-fill",
+        "colors": [
+            "#B0C4DE",
+            "#696969"
+        ]
+    },
+    "forte-pioggia": {
+        "clas": "bi-cloud-lightning-rain-fill",
+        "colors": [
+            "#FFD700",
+            "#1E90FF"
+        ]
+    },
+    "foschia": {
+        "clas": "bi-cloud-fog-fill",
+        "colors": [
+            "#8080C0",
+            "#D3D3D3"
+        ]
+    },
+    "temporale-con-pioggia": {
+        "clas": "bi-lightning-charge-fill",
+        "colors": [
+            "#4F4F4F",
+            "#0066CC"
+        ]
+    },
+    "pioggia-fortissima": {
+        "clas": "bi-cloud-rain-heavy-fill",
+        "colors": [
+            "#4A6572",
+            "#3D9DA3"
+        ]
+    },
+    "pioggerella": {
+        "clas": "bi-droplet-fill",
+        "colors": [
+            "#A8C4D0",
+            "#D1E8E2 "
+        ]
+    }
+}
